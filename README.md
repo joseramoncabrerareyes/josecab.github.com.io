@@ -1,2 +1,2 @@
-# josecab.github.com.io
+# josecab.github.io
 Sitio de prácticas de clase
